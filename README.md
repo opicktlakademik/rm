@@ -7,13 +7,12 @@ $ cd [project dir]
 $ composer install
 $ composer dumpautoload
 ```
-### Setup
-- Edit .env 
---- Set APP_NAME
---- Set APP_URL
---- Set DB Connection
---- Set ASSET_URL (if necessary) 
---- Set .htaccess (as needed)
+### Setup ENV
+- Set APP_NAME
+- Set APP_URL
+- Set DB Connection
+- Set ASSET_URL (if necessary) 
+- Set .htaccess (as needed)
 
 ### Migration
 Laravel default
