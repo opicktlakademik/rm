@@ -1,6 +1,6 @@
 # BPOM Dashboard
 
-### Comit Note 27/03/2020 17:47
+### Commit Note 27/03/2020 17:47
 - Add migrations and seeders
 - Add user level
 - Before going any further, please make sure everything is ok by running command as follow
